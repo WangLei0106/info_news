@@ -16,7 +16,7 @@ class Config():
 
     # 配置链接到MySQL数据库对象
     SQLALCHEMY_DATABASE_URI = 'mysql://root:mysql@127.0.0.1:3306/info_29'
-
+    a = 14
     # 不去追踪数据库的修改
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
